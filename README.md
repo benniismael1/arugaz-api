@@ -2,7 +2,7 @@
 Access ArugaZ Rest Api Programmatically
 
 ### Main website 
-[arugaz.my.id](https://arugaz.my.id)
+[yakko-api.herokuapp.com](https://yakko-api.herokuapp.com)
 
 #### If you have any suggestions of a website, open an issue!
 
@@ -10,13 +10,13 @@ Access ArugaZ Rest Api Programmatically
 
 Via NPM:
 ```bash
-$ npm install @arugaz/arugaz-api
+$ npm install @YakkoRasZ14/arugaz-api
 ```
 
 ## Simple to Use
 
 ```js
-const arugaz = require('@arugaz/arugaz-api');
+const arugaz = require('@YakkoRasZ14/arugaz-api');
 
 /*
 arugaz.type.module-name(params)
