@@ -1,5 +1,5 @@
 const fetch = require('node-fetch');
-const baseURI = 'https://arugaz.my.id'
+const baseURI = 'https://ytbottes.herokuapp.com'
 
 module.exports.idwiki = function idwiki(query) {
 	return new Promise((resolve, reject) => {
